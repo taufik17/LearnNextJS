@@ -3,5 +3,5 @@ export default function UserDetail() {
         <div>
             <p>User Detail Page</p>
         </div>
-    )
+    );
 }
